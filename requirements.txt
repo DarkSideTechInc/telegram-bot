@@ -1,3 +1,0 @@
-# Requirements file for My Telegram Bot project
-
-python-telegram-bot==13.7
